@@ -23,10 +23,6 @@ This Power BI dashboard provides an interactive analysis of customer churn and r
 
 ---
 
-## Dashboard Screenshot
-![Dashboard Screenshot]("C:\Users\aishw\OneDrive\Documents\dashboard.png.png")
-
----
 
 ## Folder Structure
 PowerBI-Churn-Analysis/
