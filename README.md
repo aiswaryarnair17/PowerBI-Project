@@ -24,8 +24,7 @@ This Power BI dashboard provides an interactive analysis of customer churn and r
 ---
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](<img width="1321" height="736" alt="Screenshot 2025-12-18 143822" src="https://github.com/user-attachments/assets/aaa744d7-4b28-4026-868d-8640cbecef5d" />
-)
+![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
